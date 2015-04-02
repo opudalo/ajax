@@ -1,6 +1,6 @@
 # ajax
 
-ajax micro library in ES6
+ajax micro library in ES6  
 an ES6 port of awesome [ForbesLindesay/ajax](https://github.com/ForbesLindesay/ajax) library
 
 ## Installation
