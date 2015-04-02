@@ -1,0 +1,17 @@
+{
+  "name": "ajax",
+  "version": "1.1.2",
+  "description": "ajax micro library",
+  "authors": [
+    "Eugene Chechurin <e.chechurin@gmail.com> (https://github.com/opudalo)"
+  ],
+  "main": "lib/index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/opudalo/ajax",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {}
+}
