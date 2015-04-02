@@ -1,6 +1,6 @@
 {
   "name": "ajax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ajax micro library",
   "authors": [
     "Eugene Chechurin <e.chechurin@gmail.com> (https://github.com/opudalo)"
