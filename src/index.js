@@ -71,6 +71,7 @@ function ajax(options = {}){
   }
 
   xhr.open(settings.type, settings.url, settings.async)
+  xhr.withCredentials = true
 
   for (var name in settings.headers) xhr.setRequestHeader(name, settings.headers[name])
 
